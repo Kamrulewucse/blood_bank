@@ -1,0 +1,188 @@
+
+@media (min-width: 768px){
+    .col-form-label{
+        text-align: right;
+    }
+}
+
+.form-group.has-error label {
+    color: #dd4b39;
+}
+.form-group.has-error .form-control, .form-group.has-error .input-group-addon {
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+.form-group.has-error .help-block {
+    color: #dd4b39;
+}
+.help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.toast{
+    min-width: 300px;
+}
+.select2{
+    width: 100% !important;
+}
+.form-group.has-error .select2-container span.selection span.select2-selection.select2-selection--single {
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+.input-group.date-time.has-error .form-control {
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+
+.input-group.date-time.has-error > .help-block {
+    color: #dd4b39;
+}
+.content-header h1 {
+    font-size: 1.5rem;
+}
+.content-header {
+    padding: 5px .5rem;
+}
+.brand-link {
+    line-height: 1.9;
+}
+
+.card-primary.card-outline {
+    border-top: 3px solid #dc3545;
+}
+.btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-primary:hover{
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #dc3545;
+}
+a {
+    color: #dc3545;
+}
+.brand-link {
+    line-height: 1.5;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(220, 53, 69);
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #dc3545;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(220, 53, 69);
+}
+
+.bg-gradient-primary {
+    background: #dc3545 linear-gradient(180deg,#dc3545,#dc3545) repeat-x!important;
+    color: #fff;
+}
+.bg-gradient-primary.btn.active, .bg-gradient-primary.btn:active, .bg-gradient-primary.btn:not(:disabled):not(.disabled).active, .bg-gradient-primary.btn:not(:disabled):not(.disabled):active {
+    background: #dc3545 linear-gradient(180deg,#dc3545,#dc3545) repeat-x!important;
+    border-color: #dc3545;
+}
+.bg-gradient-primary.btn:hover {
+    background: #dc3545 linear-gradient(180deg,#dc3545,#dc3545) repeat-x!important;
+    border-color: #dc3545;
+}
+.btn-primary.focus, .btn-primary:focus {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    box-shadow: 0 0 0 0 rgb(220, 53, 69);
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected], .select2-container--default .select2-results__option--highlighted[aria-selected]:hover {
+    background-color: #dc3545;
+}
+.datepicker table tr td.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active:hover {
+    background-color: #dc3545;
+    background-image: -moz-linear-gradient(to bottom,#dc3545,#dc3545);
+    background-image: -ms-linear-gradient(to bottom,#dc3545,#dc3545);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#dc3545),to(#dc3545));
+    background-image: -webkit-linear-gradient(to bottom,#dc3545,#dc3545);
+    background-image: -o-linear-gradient(to bottom,#dc3545,#dc3545);
+    background-image: linear-gradient(to bottom,#dc3545,#dc3545);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08c', endColorstr='#0044cc', GradientType=0);
+    border-color: #dc3545 #dc3545 #dc3545;
+    border-color: rgb(220, 53, 69) rgb(220, 53, 69) rgb(220, 53, 69);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    color: #fff;
+    text-shadow: 0 -1px 0 rgb(220, 53, 69);
+}
+
+.datepicker table tr td.active.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled.disabled, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover.active, .datepicker table tr td.active.disabled:hover.disabled, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active.disabled:hover[disabled], .datepicker table tr td.active.disabled[disabled], .datepicker table tr td.active:active, .datepicker table tr td.active:hover, .datepicker table tr td.active:hover.active, .datepicker table tr td.active:hover.disabled, .datepicker table tr td.active:hover:active, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active:hover[disabled], .datepicker table tr td.active[disabled] {
+    background-color: #dc3545;
+}
+
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+    border-style: groove;
+    border-color: threedface;
+    border-image: initial;
+    padding-bottom: 0;
+}
+legend {
+    width: auto;
+    margin-bottom: 0;
+}
+table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before, table.dataTable.dtr-inline.collapsed>tbody>tr>th.dtr-control:before {
+    background-color: #dc3545;
+}
+[class*=sidebar-dark] .brand-link, [class*=sidebar-dark] .brand-link .pushmenu {
+    color: rgb(220, 53, 69);
+    background: #fff;
+}
+[class*=sidebar-dark] .brand-link .pushmenu:hover, [class*=sidebar-dark] .brand-link:hover {
+    color: #dc3545;
+}
+.nav-link {
+    padding: .5rem .5rem;
+}
+.layout-navbar-fixed .wrapper .sidebar-dark-primary .brand-link:not([class*=navbar]) {
+    background-color: #ffffff;
+}
+.page-link {
+    color: #dc3545;
+}
+div.dataTables_wrapper div.dataTables_info {
+    color: #dc3545;
+}
+div.dataTables_wrapper div.dataTables_length label {
+    color: #dc3545;
+}
+.custom-select {
+    color: #dc3545;
+}
+body{
+    overflow-x: hidden;
+}
+
+.fs-style{
+    font-size: 24px !important;
+    letter-spacing: 7px!important;
+    font-weight: 900!important;
+}
+.datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-left.datepicker-orient-top {
+    z-index: 9999 !important;
+}
+.elevation-3 {
+    box-shadow: none !important;
+}

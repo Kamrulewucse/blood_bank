@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="30px" viewBox="0 0 45 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>93129D1A-4489-47EA-A7F6-1F9370CC4222@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 45 0 45 30 0 30"></polygon>
+    </defs>
+    <g id="Donation-Success-Stories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Donation-Success-Storie-Details-Page" transform="translate(-399.000000, -1452.000000)">
+            <g id="icon-quote-open" transform="translate(421.500000, 1467.000000) scale(1, -1) translate(-421.500000, -1467.000000) translate(399.000000, 1452.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2" transform="translate(22.500000, 15.000000) scale(-1, 1) translate(-22.500000, -15.000000) "></g>
+                <path d="M21.6660754,10.7723079 C21.6660754,6.32492419 18.6154654,0 10.9998552,0 C10.2706802,0 9.57213192,0.0741983354 8.90225537,0.21904639 C3.84103827,1.12168527 0,5.50132267 0,10.7723079 C0,15.756823 3.43409478,19.9461256 8.0864135,21.1503968 C8.3480433,21.2474998 8.61456033,21.3407317 8.88954856,21.4284793 C8.53310647,25.0532292 4.72953698,30 4.72953698,30 C9.32548963,29.1683334 21.6660754,21.7452739 21.6660754,10.7723079 M28.0634616,30 C28.0634616,30 31.8670311,25.0532292 32.223799,21.4284793 C31.948485,21.3407317 31.6816421,21.2474998 31.4200123,21.1503968 C26.767042,19.9461256 23.3339246,15.756823 23.3339246,10.7723079 C23.3339246,5.50132267 27.1743113,1.12168527 32.2358542,0.21904639 C32.9060565,0.0741983354 33.6049307,0 34.3341056,0 C41.9500416,0 45,6.32492419 45,10.7723079 C45,21.7452739 32.6590884,29.1683334 28.0634616,30" id="Fill-1" fill="#BEBEBE" mask="url(#mask-2)" transform="translate(22.500000, 15.000000) scale(-1, 1) translate(-22.500000, -15.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
